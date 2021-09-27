@@ -1,0 +1,24 @@
+.left-side{
+    /* border: 1px solid rgb(81, 233, 238); */
+   
+    margin-top: 10px;
+    margin-left: 20px;
+    border-radius: 10px;
+}
+.Hero-btn{
+    width: 150px;
+    height: 40px;
+    background-color:#224a54;
+    color: white;
+    border-radius: 5px;
+   
+}
+.side-cart{
+    background-color:#224a54;
+    color: white;
+    width: 315px;
+    height: 100%;
+    margin-top: 15px;
+    margin-left: 5px;
+    padding: 20px;
+}

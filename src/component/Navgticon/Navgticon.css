@@ -1,0 +1,16 @@
+.header-session{
+    background-color: #224a54;
+    color: white;
+    text-align: center;
+    padding: 40px;
+    margin-left: 30px;
+    margin-right: 20px;
+}
+.header-total{
+    font-weight: bold;
+
+}
+.header{
+    font-size: 62px;
+    font-weight: bold;
+}
